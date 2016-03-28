@@ -1,0 +1,502 @@
+[
+  {
+    "_id": "56f9694a3038706a46bcb962",
+    "age": 27,
+    "name": "Rollins Houston",
+    "gender": "male",
+    "choronic_disease": "Hiv",
+    "frequent_illness1": "Vomitting",
+    "frequent_illness2": "Body pain",
+    "Suggestion": "you are suffering from frequent head ache please visit a opthamologist"
+  },
+  {
+    "_id": "56f9694ac646f9afab8e7955",
+    "age": 24,
+    "name": "Moore Ruiz",
+    "gender": "male",
+    "choronic_disease": "NA",
+    "frequent_illness1": "None",
+    "frequent_illness2": "Diarrhea",
+    "Suggestion": "You may have malaria."
+  },
+  {
+    "_id": "56f9694a2ac37f28a66741fa",
+    "age": 26,
+    "name": "Mcbride Ferrell",
+    "gender": "male",
+    "choronic_disease": "Heart Disease",
+    "frequent_illness1": "Stomach Ache",
+    "frequent_illness2": "Body pain",
+    "Suggestion": "As you are suffering from frequent stomach ache please visit a gastroentologist"
+  },
+  {
+    "_id": "56f9694a9ed8346a016381a3",
+    "age": 40,
+    "name": "Tasha Collier",
+    "gender": "female",
+    "choronic_disease": "TB",
+    "frequent_illness1": "None",
+    "frequent_illness2": "NA",
+    "Suggestion": "you are suffering from frequent head ache please visit a opthamologist"
+  },
+  {
+    "_id": "56f9694afcfcb99d65bcd89a",
+    "age": 26,
+    "name": "Crawford Mendoza",
+    "gender": "male",
+    "choronic_disease": "Heart Disease",
+    "frequent_illness1": "Stomach Ache",
+    "frequent_illness2": "Body pain",
+    "Suggestion": "you are suffering from frequent head ache please visit a opthamologist"
+  },
+  {
+    "_id": "56f9694a8716cfc887580efa",
+    "age": 24,
+    "name": "Newman Odonnell",
+    "gender": "male",
+    "choronic_disease": "Diabetes",
+    "frequent_illness1": "Fever",
+    "frequent_illness2": "NA",
+    "Suggestion": "As you are suffering from frequent stomach ache please visit a gastroentologist"
+  },
+  {
+    "_id": "56f9694af1a2b6ea290c0844",
+    "age": 28,
+    "name": "Blackwell Lane",
+    "gender": "male",
+    "choronic_disease": "Diabetes",
+    "frequent_illness1": "Head Ache",
+    "frequent_illness2": "NA",
+    "Suggestion": "you are suffering from frequent head ache please visit a opthamologist"
+  },
+  {
+    "_id": "56f9694aca423a22f6117169",
+    "age": 27,
+    "name": "Francis Harding",
+    "gender": "female",
+    "choronic_disease": "TB",
+    "frequent_illness1": "None",
+    "frequent_illness2": "Diarrhea",
+    "Suggestion": "As you are suffering from frequent stomach ache please visit a gastroentologist"
+  },
+  {
+    "_id": "56f9694a571e64ef55edfc5a",
+    "age": 30,
+    "name": "Florence Summers",
+    "gender": "female",
+    "choronic_disease": "Chronic Respiratory",
+    "frequent_illness1": "None",
+    "frequent_illness2": "Body pain",
+    "Suggestion": "As you are suffering from frequent stomach ache please visit a gastroentologist"
+  },
+  {
+    "_id": "56f9694ab0a8190505c37d24",
+    "age": 24,
+    "name": "Alice Sanford",
+    "gender": "female",
+    "choronic_disease": "Diabetes",
+    "frequent_illness1": "Head Ache",
+    "frequent_illness2": "NA",
+    "Suggestion": "As you are suffering from frequent stomach ache please visit a gastroentologist"
+  },
+  {
+    "_id": "56f9694a5c476bc07072160f",
+    "age": 40,
+    "name": "Sloan Mcguire",
+    "gender": "male",
+    "choronic_disease": "Chronic Respiratory",
+    "frequent_illness1": "Head Ache",
+    "frequent_illness2": "Body pain",
+    "Suggestion": "As you are suffering from frequent stomach ache please visit a gastroentologist"
+  },
+  {
+    "_id": "56f9694ac067553f76e483ba",
+    "age": 32,
+    "name": "Soto Cummings",
+    "gender": "male",
+    "choronic_disease": "Hiv",
+    "frequent_illness1": "Head Ache",
+    "frequent_illness2": "Diarrhea",
+    "Suggestion": "As you are suffering from frequent stomach ache please visit a gastroentologist"
+  },
+  {
+    "_id": "56f9694a20ed8077b6cd94f2",
+    "age": 36,
+    "name": "Shelby Guerra",
+    "gender": "female",
+    "choronic_disease": "Heart Disease",
+    "frequent_illness1": "Vomitting",
+    "frequent_illness2": "Diarrhea",
+    "Suggestion": "You may have malaria."
+  },
+  {
+    "_id": "56f9694a2f53135572779469",
+    "age": 37,
+    "name": "Glass Leblanc",
+    "gender": "male",
+    "choronic_disease": "NA",
+    "frequent_illness1": "None",
+    "frequent_illness2": "Diarrhea",
+    "Suggestion": "As you are suffering from frequent stomach ache please visit a gastroentologist"
+  },
+  {
+    "_id": "56f9694af314a841fb5011b1",
+    "age": 37,
+    "name": "Stevenson Kline",
+    "gender": "male",
+    "choronic_disease": "Hiv",
+    "frequent_illness1": "Stomach Ache",
+    "frequent_illness2": "Diarrhea",
+    "Suggestion": "You may have malaria."
+  },
+  {
+    "_id": "56f9694a3a2a96b2b1fc8713",
+    "age": 28,
+    "name": "Gilbert Page",
+    "gender": "male",
+    "choronic_disease": "Hiv",
+    "frequent_illness1": "Vomitting",
+    "frequent_illness2": "Diarrhea",
+    "Suggestion": "As you are suffering from frequent stomach ache please visit a gastroentologist"
+  },
+  {
+    "_id": "56f9694a7ad9b1e7785c6115",
+    "age": 32,
+    "name": "Durham Dunn",
+    "gender": "male",
+    "choronic_disease": "TB",
+    "frequent_illness1": "None",
+    "frequent_illness2": "Diarrhea",
+    "Suggestion": "you are suffering from frequent head ache please visit a opthamologist"
+  },
+  {
+    "_id": "56f9694a3c2fd4c812d46e65",
+    "age": 21,
+    "name": "Ferguson Valencia",
+    "gender": "male",
+    "choronic_disease": "TB",
+    "frequent_illness1": "Vomitting",
+    "frequent_illness2": "Body pain",
+    "Suggestion": "you are suffering from frequent head ache please visit a opthamologist"
+  },
+  {
+    "_id": "56f9694a8db07a3c4e2a4fcb",
+    "age": 40,
+    "name": "Mckee Rasmussen",
+    "gender": "male",
+    "choronic_disease": "TB",
+    "frequent_illness1": "Stomach Ache",
+    "frequent_illness2": "NA",
+    "Suggestion": "you are suffering from frequent head ache please visit a opthamologist"
+  },
+  {
+    "_id": "56f9694a8ee53725de0dc376",
+    "age": 32,
+    "name": "Jenkins Perkins",
+    "gender": "male",
+    "choronic_disease": "Chronic Respiratory",
+    "frequent_illness1": "Head Ache",
+    "frequent_illness2": "Body pain",
+    "Suggestion": "you are suffering from frequent head ache please visit a opthamologist"
+  },
+  {
+    "_id": "56f9694a493be876ac824ab7",
+    "age": 40,
+    "name": "Smith Downs",
+    "gender": "male",
+    "choronic_disease": "Heart Disease",
+    "frequent_illness1": "None",
+    "frequent_illness2": "NA",
+    "Suggestion": "you are suffering from frequent head ache please visit a opthamologist"
+  },
+  {
+    "_id": "56f9694a9b0230bd6733a263",
+    "age": 36,
+    "name": "Gibson Newton",
+    "gender": "male",
+    "choronic_disease": "TB",
+    "frequent_illness1": "None",
+    "frequent_illness2": "NA",
+    "Suggestion": "You may have malaria."
+  },
+  {
+    "_id": "56f9694af085d4b264d26caf",
+    "age": 39,
+    "name": "Katelyn Snyder",
+    "gender": "female",
+    "choronic_disease": "Heart Disease",
+    "frequent_illness1": "Head Ache",
+    "frequent_illness2": "NA",
+    "Suggestion": "As you are suffering from frequent stomach ache please visit a gastroentologist"
+  },
+  {
+    "_id": "56f9694a52141df9a72fb411",
+    "age": 37,
+    "name": "Nikki Lawson",
+    "gender": "female",
+    "choronic_disease": "Diabetes",
+    "frequent_illness1": "Head Ache",
+    "frequent_illness2": "Diarrhea",
+    "Suggestion": "As you are suffering from frequent stomach ache please visit a gastroentologist"
+  },
+  {
+    "_id": "56f9694a4efd5d5888ea4564",
+    "age": 31,
+    "name": "Sexton Hodges",
+    "gender": "male",
+    "choronic_disease": "Diabetes",
+    "frequent_illness1": "None",
+    "frequent_illness2": "Body pain",
+    "Suggestion": "you are suffering from frequent head ache please visit a opthamologist"
+  },
+  {
+    "_id": "56f9694a37acf744162bf5cb",
+    "age": 36,
+    "name": "Dickerson Hall",
+    "gender": "male",
+    "choronic_disease": "Heart Disease",
+    "frequent_illness1": "Fever",
+    "frequent_illness2": "Diarrhea",
+    "Suggestion": "As you are suffering from frequent stomach ache please visit a gastroentologist"
+  },
+  {
+    "_id": "56f9694a7d84564b88a177cd",
+    "age": 22,
+    "name": "Holden Berry",
+    "gender": "male",
+    "choronic_disease": "Chronic Respiratory",
+    "frequent_illness1": "Head Ache",
+    "frequent_illness2": "Diarrhea",
+    "Suggestion": "You may have malaria."
+  },
+  {
+    "_id": "56f9694a94b1073b5614b8bb",
+    "age": 28,
+    "name": "Linda Ware",
+    "gender": "female",
+    "choronic_disease": "Heart Disease",
+    "frequent_illness1": "Head Ache",
+    "frequent_illness2": "NA",
+    "Suggestion": "You may have malaria."
+  },
+  {
+    "_id": "56f9694abe99d6d39f9d78c4",
+    "age": 32,
+    "name": "Luisa Sharpe",
+    "gender": "female",
+    "choronic_disease": "Diabetes",
+    "frequent_illness1": "Stomach Ache",
+    "frequent_illness2": "Diarrhea",
+    "Suggestion": "You may have malaria."
+  },
+  {
+    "_id": "56f9694a53fedc5a3417348d",
+    "age": 38,
+    "name": "Gordon Robinson",
+    "gender": "male",
+    "choronic_disease": "NA",
+    "frequent_illness1": "Stomach Ache",
+    "frequent_illness2": "Body pain",
+    "Suggestion": "you are suffering from frequent head ache please visit a opthamologist"
+  },
+  {
+    "_id": "56f9694a6149617ebbb8aea3",
+    "age": 34,
+    "name": "Sears Ellis",
+    "gender": "male",
+    "choronic_disease": "NA",
+    "frequent_illness1": "None",
+    "frequent_illness2": "NA",
+    "Suggestion": "you are suffering from frequent head ache please visit a opthamologist"
+  },
+  {
+    "_id": "56f9694a2e2954e32b6d60b9",
+    "age": 20,
+    "name": "Johnston Mcconnell",
+    "gender": "male",
+    "choronic_disease": "Heart Disease",
+    "frequent_illness1": "Vomitting",
+    "frequent_illness2": "Diarrhea",
+    "Suggestion": "you are suffering from frequent head ache please visit a opthamologist"
+  },
+  {
+    "_id": "56f9694a11a1921746093f2a",
+    "age": 30,
+    "name": "Alison Johnson",
+    "gender": "female",
+    "choronic_disease": "Hiv",
+    "frequent_illness1": "Head Ache",
+    "frequent_illness2": "Body pain",
+    "Suggestion": "As you are suffering from frequent stomach ache please visit a gastroentologist"
+  },
+  {
+    "_id": "56f9694a8d9b7d35ba2ae2bd",
+    "age": 30,
+    "name": "Laurel Mccarty",
+    "gender": "female",
+    "choronic_disease": "TB",
+    "frequent_illness1": "Fever",
+    "frequent_illness2": "Diarrhea",
+    "Suggestion": "You may have malaria."
+  },
+  {
+    "_id": "56f9694ad702506d09597414",
+    "age": 34,
+    "name": "Goodman Carr",
+    "gender": "male",
+    "choronic_disease": "Hiv",
+    "frequent_illness1": "None",
+    "frequent_illness2": "Diarrhea",
+    "Suggestion": "You may have malaria."
+  },
+  {
+    "_id": "56f9694afe844e83bb27d725",
+    "age": 25,
+    "name": "Gentry Glenn",
+    "gender": "male",
+    "choronic_disease": "Chronic Respiratory",
+    "frequent_illness1": "Fever",
+    "frequent_illness2": "NA",
+    "Suggestion": "you are suffering from frequent head ache please visit a opthamologist"
+  },
+  {
+    "_id": "56f9694a707f23b1d95d8ca8",
+    "age": 35,
+    "name": "Kerry Neal",
+    "gender": "female",
+    "choronic_disease": "NA",
+    "frequent_illness1": "Fever",
+    "frequent_illness2": "NA",
+    "Suggestion": "You may have malaria."
+  },
+  {
+    "_id": "56f9694a470de6e9f7524d82",
+    "age": 34,
+    "name": "Gwen Combs",
+    "gender": "female",
+    "choronic_disease": "TB",
+    "frequent_illness1": "Vomitting",
+    "frequent_illness2": "NA",
+    "Suggestion": "You may have malaria."
+  },
+  {
+    "_id": "56f9694a2e37616f0052f42e",
+    "age": 29,
+    "name": "Ross Lynn",
+    "gender": "male",
+    "choronic_disease": "TB",
+    "frequent_illness1": "Head Ache",
+    "frequent_illness2": "NA",
+    "Suggestion": "you are suffering from frequent head ache please visit a opthamologist"
+  },
+  {
+    "_id": "56f9694af0d79492cbe59a59",
+    "age": 29,
+    "name": "Morse Kent",
+    "gender": "male",
+    "choronic_disease": "TB",
+    "frequent_illness1": "Fever",
+    "frequent_illness2": "NA",
+    "Suggestion": "As you are suffering from frequent stomach ache please visit a gastroentologist"
+  },
+  {
+    "_id": "56f9694aa686b607971094b8",
+    "age": 25,
+    "name": "Flowers Jarvis",
+    "gender": "male",
+    "choronic_disease": "NA",
+    "frequent_illness1": "Vomitting",
+    "frequent_illness2": "NA",
+    "Suggestion": "you are suffering from frequent head ache please visit a opthamologist"
+  },
+  {
+    "_id": "56f9694a4c51bef18d533f5f",
+    "age": 37,
+    "name": "Katheryn Vaughan",
+    "gender": "female",
+    "choronic_disease": "Chronic Respiratory",
+    "frequent_illness1": "Fever",
+    "frequent_illness2": "Diarrhea",
+    "Suggestion": "You may have malaria."
+  },
+  {
+    "_id": "56f9694a4fc1c6863d019a31",
+    "age": 27,
+    "name": "Lynch Ward",
+    "gender": "male",
+    "choronic_disease": "Diabetes",
+    "frequent_illness1": "None",
+    "frequent_illness2": "Body pain",
+    "Suggestion": "As you are suffering from frequent stomach ache please visit a gastroentologist"
+  },
+  {
+    "_id": "56f9694a2021f9b89c135e96",
+    "age": 26,
+    "name": "Lawrence Holmes",
+    "gender": "male",
+    "choronic_disease": "Hiv",
+    "frequent_illness1": "Fever",
+    "frequent_illness2": "Diarrhea",
+    "Suggestion": "You may have malaria."
+  },
+  {
+    "_id": "56f9694aac236477904d42f1",
+    "age": 35,
+    "name": "Fisher Collins",
+    "gender": "male",
+    "choronic_disease": "Chronic Respiratory",
+    "frequent_illness1": "Stomach Ache",
+    "frequent_illness2": "Body pain",
+    "Suggestion": "As you are suffering from frequent stomach ache please visit a gastroentologist"
+  },
+  {
+    "_id": "56f9694a96732cdb60903884",
+    "age": 33,
+    "name": "Shaffer Chambers",
+    "gender": "male",
+    "choronic_disease": "TB",
+    "frequent_illness1": "None",
+    "frequent_illness2": "Diarrhea",
+    "Suggestion": "You may have malaria."
+  },
+  {
+    "_id": "56f9694ae4c5ebf739081081",
+    "age": 38,
+    "name": "Holder Yang",
+    "gender": "male",
+    "choronic_disease": "Hiv",
+    "frequent_illness1": "Stomach Ache",
+    "frequent_illness2": "Body pain",
+    "Suggestion": "you are suffering from frequent head ache please visit a opthamologist"
+  },
+  {
+    "_id": "56f9694ad8543ae5067186ad",
+    "age": 31,
+    "name": "Audra Wilkins",
+    "gender": "female",
+    "choronic_disease": "Diabetes",
+    "frequent_illness1": "Head Ache",
+    "frequent_illness2": "Diarrhea",
+    "Suggestion": "As you are suffering from frequent stomach ache please visit a gastroentologist"
+  },
+  {
+    "_id": "56f9694a02f193d3a1b4df9e",
+    "age": 31,
+    "name": "Sheena Gillespie",
+    "gender": "female",
+    "choronic_disease": "Hiv",
+    "frequent_illness1": "None",
+    "frequent_illness2": "NA",
+    "Suggestion": "you are suffering from frequent head ache please visit a opthamologist"
+  },
+  {
+    "_id": "56f9694ae1bb4daa93c675b2",
+    "age": 37,
+    "name": "Giles Mccullough",
+    "gender": "male",
+    "choronic_disease": "Hiv",
+    "frequent_illness1": "Fever",
+    "frequent_illness2": "Diarrhea",
+    "Suggestion": "As you are suffering from frequent stomach ache please visit a gastroentologist"
+  }
+]
