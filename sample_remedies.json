@@ -1,0 +1,225 @@
+{ 
+    "_id" : ObjectId("570a81dfe4b0a33a2d7a633d"), 
+    "fever" : [
+        {
+            "Ingredient_1" : "Raisin", 
+            "Recipe_1" : "Crush 15grams of raisin and 15grams of ginger in 200ml of water for one hour,boil untill the decotion is reduced to 1/4th of quantity Strain and drink while warm "
+        }, 
+        {
+            "Ingredient_2" : "Apricot", 
+            "Recipe_2" : "Drink 100 to 200ml of apricot juice along with honey"
+        }, 
+        {
+            "Ingredient_3" : "Fenugrek", 
+            "Recipe_3" : "Boil powder of 2 or 3 tsp of roasted fenugreek seeds.Stain the water and add a drop of ghee and then drink it"
+        }, 
+        {
+            "Ingredient_4" : "Basil", 
+            "Recipe_4" : "For chronic fever drink tulsi tea. Take 1 teaspoon of holy basil stepped in 1 cup of hot water.Add 1/4 teaspoon of blackpepper and honey.Take this 3 times a day"
+        }, 
+        {
+            "Ingredient_5" : "Spicy foods", 
+            "Recipe_5" : "Consume spicy foods. It will make you to sweat and increase blood circulation"
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("570a845dd262ea4d3293f8a2"), 
+    "Common Cold" : [
+        {
+            "Ingredient_1" : "Honey and cinnamon", 
+            "Recipe_1" : "Take one tablespoon of honey and 1/4 teaspoon of cinnamon powder thrice a day."
+        }, 
+        {
+            "Ingredient_2" : "Lemon and Honey", 
+            "Recipe_2" : "Take one glass of warm water and add 1tsp of honey and 1tsp on lemon juice."
+        }, 
+        {
+            "Ingredient_3" : "Asafetida", 
+            "Recipe_3" : "Add 2mgs of roasted asafedita to a glass of warm milk and drink Twice a day."
+        }, 
+        {
+            "Ingredient_4" : "Black Pepper", 
+            "Recipe_4" : "Add one teaspoon of pepper to a glass of warm milk along with a pinch of salt and little sugar to it and consume."
+        }, 
+        {
+            "Ingredient_5" : "Saline Water", 
+            "Recipe_5" : "Mix 3 teaspoons of iodide-free salt and 1 teaspoon baking soda.Add 1 teaspoon of this mixture to 8 ounces of lukewarm boiled or distilled water."
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("570a845dd262ea4d3293f8a3"), 
+    "Diarhea" : [
+        {
+            "Ingredient_1" : "Banana", 
+            "Recipe_1" : "Eat ripe banana which helps in body's healthy bacteria"
+        }, 
+        {
+            "Ingredient_2" : "Yogurt", 
+            "Recipe_2" : "Take one  cup of water and half cup of yougurt half teaspoon of grated ginger"
+        }, 
+        {
+            "Ingredient_3" : "Corriander ", 
+            "Recipe_3" : "Coriander is not just an add-on to a yummy dish but it also helps in treating dysentery effectively. You would need to boil coriander and have the water. The coriander juice gets extracted when you boil it. Have the coriander water twice in a day and you will see the difference yourself. This home remedy works really fast and your tummy will start feeling better too."
+        }, 
+        {
+            "Ingredient_4" : "Onion and Honey", 
+            "Recipe_4" : "Mix Equal amounts of onion and honey and consume it 3 or 4 times a day"
+        }, 
+        {
+            "Ingredient_5" : "Turmeric", 
+            "Recipe_5" : "Pure turmeric mixed in milk can be take three times a day."
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("570a845dd262ea4d3293f8a4"), 
+    "flu" : [
+        {
+            "Ingredient_1" : "Soup", 
+            "Recipe_1" : "Drink any type of hot soup (Black pepper is preferable)."
+        }, 
+        {
+            "Ingredient_2" : "Warm cloth", 
+            "Recipe_2" : "Place a warm cloth on forehead to reduce the temperature."
+        }, 
+        {
+            "Ingredient_3" : "Basil", 
+            "Recipe_3" : "Drink a tea made by boiling one teaspoon of basil leaves in water."
+        }, 
+        {
+            "Ingredient_4" : "Onion and Honey", 
+            "Recipe_4" : "Mix Equal amounts of onion and honey and consume it 3 or 4 times a day."
+        }, 
+        {
+            "Ingredient_5" : "Turmeric", 
+            "Recipe_5" : "Pure turmeric mixed in milk can be take three times a day."
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("570a845dd262ea4d3293f8a5"), 
+    "Acne" : [
+        {
+            "Ingredient_1" : "Lemon Juice", 
+            "Recipe_1" : "Lemon juice can be dabbed on pimples and black heads."
+        }, 
+        {
+            "Ingredient_2" : "Coriander powder and Turmeric powder", 
+            "Recipe_2" : "Mix 1tsp of coriander powder with a pinch of turmeric and applu on  pimples and black heads."
+        }, 
+        {
+            "Ingredient_3" : "Curry Leaves", 
+            "Recipe_3" : "Make Curry leaves paste and apply it on the face and keep it overnight, Wash it in the morning."
+        }, 
+        {
+            "Ingredient_4" : "Honey", 
+            "Recipe_4" : "Apply a teaspoon of honey to affected areas, or make a mask by mixing 1/2 cup of honey with 1 cup of plain oatmeal and leaving it on for 30 minutes."
+        }, 
+        {
+            "Ingredient_5" : "Mint", 
+            "Recipe_5" : "Mint can help remove pore-clogging oil. To help clear acne before it begins, mix 2 tablespoons of finely chopped fresh mint with two tablespoons each of plain yogurt and oatmeal (use a blender to pulverize the oatmeal to powder). Leave the concoction on your face for 10 minutes, then rinse off with water."
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("570a845dd262ea4d3293f8a6"), 
+    "Headche" : [
+        {
+            "Ingredient_1" : "Cinnamon and Honey", 
+            "Recipe_1" : "Add 2 teaspoons of powdered cinnamon to 1 ½ cup of milk and boil it for one or two minutes. Add a teaspoon of honey, mix and stir it thoroughly and drink it at least twice a day when suffering from a headache."
+        }, 
+        {
+            "Ingredient_2" : "Apple", 
+            "Recipe_2" : "Eating a chopped apple sprinkled with salt every morning for at least a week will help cure chronic headaches."
+        }, 
+        {
+            "Ingredient_3" : "Rosemary Oil", 
+            "Recipe_3" : "Head massage with rosemary oil or a pain balm that contains menthol is an effective way to ease migraine pain."
+        }, 
+        {
+            "Ingredient_4" : "Ginger", 
+            "Recipe_4" : "Ginger has anti-inflammatory properties and can be used to treat headaches. Add tea leaves and ginger to 1 cup of boiling water. Stir it well and drain the water. Leave till it cools a bit and drink."
+        }, 
+        {
+            "Ingredient_5" : "Peppermint", 
+            "Recipe_5" : "Peppermint oil is a soothing remedy for curing headaches and migraines. This fresh smelling oil helps regulate blood flow in the body."
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("570a845dd262ea4d3293f8a7"), 
+    "Tooth Ache" : [
+        {
+            "Ingredient_1" : "Lime", 
+            "Recipe_1" : "Lime is also an effective home remedy for toothache and promotes general health of the teeth."
+        }, 
+        {
+            "Ingredient_2" : "Garlic and Clove", 
+            "Recipe_2" : "Garlic and clove oil can be placed on the affected tooth to alleviate tooth pain."
+        }, 
+        {
+            "Ingredient_3" : "Vinegar and Bayberry", 
+            "Recipe_3" : "A mixture of vinegar and bayberry can be applied for relief."
+        }, 
+        {
+            "Ingredient_4" : "Asafoetida", 
+            "Recipe_4" : "Asafoetida can be applied directly to the tooth to relieve pain."
+        }, 
+        {
+            "Ingredient_5" : "Pepper and Salt", 
+            "Recipe_5" : "Salt mixed with pepper can be of great use when a tooth becomes extremely sensitive as both the ingredients have antibacterial, anti-inflammatory and analgesic properties."
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("570a845dd262ea4d3293f8a8"), 
+    "Isomnia" : [
+        {
+            "Ingredient_1" : "Curd", 
+            "Recipe_1" : "Eat at least 3 cups of curds daily."
+        }, 
+        {
+            "Ingredient_2" : "Honey", 
+            "Recipe_2" : "Mix 2 tsp of honey to 1 glass of warm water. Drink just before sleeping. Give half the amount to babies; it will help put them to sleep."
+        }, 
+        {
+            "Ingredient_3" : "Milk", 
+            "Recipe_3" : "Drink warm milk with honey."
+        }, 
+        {
+            "Ingredient_4" : "Celery", 
+            "Recipe_4" : "Take 1 tsp juice of celery leaves with stalks and 1 tsp of honey."
+        }, 
+        {
+            "Ingredient_5" : "Fenugreek", 
+            "Recipe_5" : "Take 2 tsp of fenugreek leaf juice with 1 tsp of honey at bedtime daily"
+        }
+    ]
+}
+{ 
+    "_id" : ObjectId("570a845dd262ea4d3293f8a9"), 
+    "Burping" : [
+        {
+            "Ingredient_1" : "Ginger", 
+            "Recipe_1" : "Put 1 tablespoon of thin ginger slices in a cup of hot water. Cover and let it steep for about 10 minutes. Strain, add a little honey and lemon juice, and drink it 2 or 3 times a day."
+        }, 
+        {
+            "Ingredient_2" : "Honey", 
+            "Recipe_2" : "Mix 2 tsp of honey to 1 glass of warm water. Drink just before sleeping. Give half the amount to babies; it will help put them to sleep."
+        }, 
+        {
+            "Ingredient_3" : "Cardomom", 
+            "Recipe_3" : "Chew a few whole pods of cardamom 2 or 3 times a day to relieve stomach gas."
+        }, 
+        {
+            "Ingredient_4" : "Asafoetida And Fennel", 
+            "Recipe_4" : "Asafoetida and fennel are good solutions for burping and hence can be added in your daily diet. Take two tablespoons of fennel and add 1/4th teaspoon asafoetida to it. Lemon And Baking Soda."
+        }, 
+        {
+            "Ingredient_5" : "Lemon And Baking Soda.", 
+            "Recipe_5" : "Lemon And Baking Soda."
+        }
+    ]
+}
